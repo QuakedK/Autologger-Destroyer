@@ -18,6 +18,9 @@ Autologger Destroyer is required to be ran with Nsudo to delete some Autologgers
 ```bat
 reg import "C:\Autologger Destroyer Backup\AutologgerBackup.reg"
 ```
+> [!NOTE]
+> If Autologger Destroyer was ran multiple times, the backup folder will not be just ```C:\Autologger Destroyer Backup```. It will create a new backup folder with a timestamp like ```Autologger Destroyer Backup [01-22-2026_05-09]``` and you must replace the path like ```reg import "C:\Autologger Destroyer Backup [01-22-2026_05-09]\AutologgerBackup.reg"```.
+
 # #3 Autologger Docs
 [Autologger Docs](https://github.com/QuakedK/Scripting-Station/blob/main/System%20Docs/Windows%20Autologgers.md)  | Documentation Created by me.
 
