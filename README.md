@@ -9,8 +9,8 @@ Autologger Destroyer disables almost all Windows Autologgers via the registry!
 Autologger Destroyer is required to be ran with Nsudo to delete some Autologgers without premission issues. Learn more here -> [Autologger Docs](https://github.com/QuakedK/Scripting-Station/blob/main/System%20Docs/Windows%20Autologgers.md#acess-denied)
 
 1. Download [Nsudo](https://github.com/M2TeamArchived/NSudo/releases/download/9.0-Preview1/NSudo_9.0_Preview1_9.0.2676.0.zip) (Offical Site) or the Standalone exe from [Downloads](https://github.com/QuakedK/Autologger-Destroyer/raw/refs/heads/main/Downloads/NSudoLG.exe)
-2. Download [Autologger Destroyer]().
-3. Open [NSudoLG.exe](https://github.com/QuakedK/Autologger-Destroyer/raw/refs/heads/main/Downloads/NSudoLG.exe) and Enable All Privileges then drop/drag [Autologger Destroyer]() into Nsudo then click run.
+2. Download [Autologger Destroyer](https://github.com/QuakedK/Autologger-Destroyer/releases/download/AutologgerDisabler/Autologger-Destroyer-V1.0.bat).
+3. Open [NSudoLG.exe](https://github.com/QuakedK/Autologger-Destroyer/raw/refs/heads/main/Downloads/NSudoLG.exe) and Enable All Privileges then drop/drag [Autologger Destroyer](https://github.com/QuakedK/Autologger-Destroyer/releases/download/AutologgerDisabler/Autologger-Destroyer-V1.0.bat) into Nsudo then click run.
 
 # #2 Revert
 1. Open [Nsudo](https://github.com/QuakedK/Autologger-Destroyer/raw/refs/heads/main/Downloads/NSudoLG.exe) and Enable All Privileges.
